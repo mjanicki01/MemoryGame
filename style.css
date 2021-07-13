@@ -5,3 +5,20 @@
   margin: 10px;
   display: inline-block;
 }
+
+.body {
+    width: 70%;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(56, 27, 42);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
